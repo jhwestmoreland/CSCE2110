@@ -1,0 +1,16 @@
+The tour 1 12 6 10 13 5 9 2 3 7 4 11 8 1  costs 1715
+
+
+1-12						22
+12-6  exculding 1				227
+6-9   exculding 1 12				34
+9-5   exculding 1 12 6				19
+5-10  exculding 1 12 6 9 			368
+10-13 exculding 1 12 6 9 10 			48
+13-3  exculding 1 12 6 9 10 13 			434
+3-2   exculding 1 12 6 9 10 13 3 		11
+2-11  exculding 1 12 6 9 10 13 3 2		327
+11-8  exculding 1 12 6 9 10 13 3 2 11		18
+8-7   exculding 1 12 6 9 10 13 3 2 11 8		437
+7-4   exculding 1 12 6 9 10 13 3 2 11 8 7	80 	
+2025

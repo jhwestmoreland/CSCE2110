@@ -1,0 +1,15 @@
+Jared Westmoreland
+CSCE 2110.001
+3/6/2017
+
+					READ ME
+I was unable to do the XOR operator, but I did manage to do the difference operator.
+What the difference operator does is it goes through a while loop of a copied head, 
+which will the first set we given, until it equals head. It then goes through a similar 
+while loop, but it.s the second set given. It will then compare the two values within 
+both linked lists and determine if it goes through (Also i++ just determines if both their 
+heads equal and if i equals 1 than delete head). If both values are not equal to each other 
+than it stores each number into the given linked list, the difference of the two provided. 
+Afterwards all it does is reset everything so it can continuously loop until completion. 
+
+
